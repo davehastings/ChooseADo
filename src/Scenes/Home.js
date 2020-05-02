@@ -163,7 +163,7 @@ class Home extends React.Component{
                     <div className="row">
 
                         <div className="col-md-4">
-                            <img style={{border: "white 4px solid", borderRadius:12}} className="w-75 h-auto mx-2" src="https://images.unsplash.com/photo-1548345680-f5475ea5df84?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt=""/>
+                            <img style={{border: "white 4px solid", borderRadius:12}} className="w-75 h-auto mx-2" src="https://images.unsplash.com/photo-1512428559087-560fa5ceab42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" alt=""/>
                             <h1 className="my-2 font-weight-bold">Step 1</h1>
                             <p style={{fontSize:20, marginBottom:30, paddingLeft:30, paddingRight:30}}>
                                 Choose the do you are looking for today

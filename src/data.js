@@ -8,6 +8,7 @@ export const mensCutList = [
 
 
 export const womensCutList = [
+  
         {image:"/images/Layered-Cut.jpg", title: "Layered"}, 
         {image:"/images/Pixie.jpg", title: "Pixie"},
         {image:"/images/Bob-Cut.jpg", title: "Bob"},

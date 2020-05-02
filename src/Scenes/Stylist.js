@@ -75,7 +75,7 @@ class Stylist extends React.Component{
                         <span className="navbar-text"></span>
                     </div>
                 </nav>  
-                <div style={{paddingLeft:20, fontFamily:"optima"}}>
+                <div className="container" style={{fontFamily:"optima"}}>
                 
                 <div>
 
@@ -83,15 +83,15 @@ class Stylist extends React.Component{
                     
                     <br></br>
                 </div>
-                <div className="text-center">
+                <div className="">
                     <div>
 
-                    <img className="img-thumbnail border border-secondary rounded-lg" style={{width:200, height:"auto"}} alt="" src={stylist.image}/>
+                    <img className="img-thumbnail border border-secondary rounded-lg" style={{width:300, height:"auto"}} alt="" src={stylist.image}/>
                     </div>
                     <br></br>
                     <div >
                         <div style={{fontSize:30, fontWeight:"bold"}}>Description</div>
-                        <br></br>
+                        
                         <div style={{}}>{stylist.description}</div>
 
                     </div>
@@ -99,7 +99,7 @@ class Stylist extends React.Component{
                     <div>
                     <div >
                         <div style={{fontSize:30, fontWeight:"bold"}}>Specialties</div>
-                        <br></br>
+                        
                         <div style={{}}>{stylist.specialties}</div>
 
                     </div>
@@ -113,7 +113,7 @@ class Stylist extends React.Component{
 
                     </div> */}
                     <br></br>
-                    <div style={{marginBottom:20}}>
+                    <div style={{marginBottom:10}}>
 
                     <a  href="/signup" >Sign Up to be Featured</a>
                     </div>

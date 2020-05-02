@@ -37,7 +37,7 @@ class HairDresser extends React.Component{
                   {this.props.description}
                 </div>
                 <div>
-                  <button className="btn btn-outline-dark btn-lg" style={{marginLeft:10, paddingRight: 5, paddingLeft: 5, fontFamily:"optima", fontSize:15}} onClick={this.handleOnClick}>See Profile</button>
+                  <button className="btn btn-outline-dark btn-lg" style={{marginLeft:10, fontFamily:"optima", fontSize:15}} onClick={this.handleOnClick}>See Profile</button>
                 </div>
             </div>
        
