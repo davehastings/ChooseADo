@@ -69,7 +69,7 @@ As a user, I want to see stylists based on distance from me <br>
   </tr>
   <tr>
     <td align="center"><img src="https://fuzati.com/wp-content/uploads/2016/12/Bootstrap-Logo.png" alt="Bootstrap" title="Bootstrap" width="60px"/></td>
-    <td align="center"><img src="https://www.logolynx.com/images/logolynx/f4/f436442c17fa509c78e28aa28c76b923.png" alt="MongoDB" title="MongoDB" width="60px"/></td>
+    <td align="center"><img src="https://i.imgur.com/4InW8PX.png" alt="MongoDB" title="MongoDB" width="60px"/></td>
   </tr>
 </table>
 
