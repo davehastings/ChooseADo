@@ -14,7 +14,7 @@ Because of this, I thought it was about time to create a search by hairstyle app
 
 # Table of Contents
   - [Demo](#demo)
-  - [Mobile Friendly](#mobile-friendly)
+  - [Mobile Views](#mobile-views)
   - [User Stories](#user-stories)
   - [Stack](#stack)
   - [Ticketing](#ticketing)
@@ -26,7 +26,7 @@ Because of this, I thought it was about time to create a search by hairstyle app
 
 ![image](https://imgur.com/g8mJrbB.gif)<br>
 
-# Mobile Friendly
+# Mobile Views
 <p>
  <img src="https://i.imgur.com/lrz7eqn.png" height=200>
  <img src="https://i.imgur.com/ORgAfpr.png"  height=200>
@@ -86,10 +86,7 @@ For ticketing and allocation of work, I followed an agile methodology. I created
 <img src="https://i.imgur.com/ain7zJ3.png"  height=200>
 
 # Getting Started
-
-
   
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
