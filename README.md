@@ -1,3 +1,93 @@
+<p align="center">
+  <img src="https://i.imgur.com/5XWEbU6.png"  height=200>
+  
+</p>
+
+-----------------------------------------------------------
+
+# Welcome to ChooseADo
+
+ChooseADo is for the people who Google "salon/barbershops in [location]". Then choose a random place and search through the reviews in hopes of finding the right person to do their hair. If they do not find the right salon/barbershop the first time this cycle repeats itself over and over soaking up their valuable time. That is unnecessary.
+
+Because of this, I thought it was about time to create a search by hairstyle app so everyone could find stylists near them who specialize in, and have specific reviews for that hairstyle. 
+
+
+# Table of Contents
+  - [Demo](#demo)
+  - [Mobile Views](#mobile-views)
+  - [User Stories](#user-stories)
+  - [Stack](#stack)
+  - [Ticketing](#ticketing)
+  - [Getting Started](#getting-started)
+  
+  
+
+# Demo
+
+![image](https://imgur.com/g8mJrbB.gif)<br>
+
+# Mobile Views
+<p>
+ <img src="https://i.imgur.com/lrz7eqn.png" height=200>
+ <img src="https://i.imgur.com/ORgAfpr.png"  height=200>
+ <img src="https://i.imgur.com/MarT2Ow.png"  height=200>
+ <img src="https://i.imgur.com/PJfXrew.png"  height=200>
+ <img src="https://i.imgur.com/ltehzEX.png"  height=200>
+ <img src="https://i.imgur.com/16Xg1b9.png"  height=200>
+</p>
+<br>
+
+# User Stories
+
+As a user, I want to be able to search the app by hairstyle <br>
+As a user, I want to be able to find hairstylists who specialize in my hairstyle <br>
+As a user, I want to be able to edit my profile <br>
+As a user, I want to be able to click on a stylist and see their profile <br>
+As a user, I want to be able to signup to be featured on the app <br>
+As a user, I want to be able to login to my account <br>
+As a user, I want to be able to see reviews on the stylists profile <br>
+As a user, I want to see stylists based on distance from me <br>
+
+# Stack
+
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td align="center">Front-end</td>
+    <td align="center">Back-end</td>
+    <td align="center">APIs</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" title="React" width="80px"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js" title="Node.js" width="60px"/></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png" alt="Axios" title="Axios" width="60px"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-router.svg" alt="React Router" title="React Router" width="70px"/></td>
+    <td align="center"><img src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" alt="Express" title="Express" width="60px"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://fuzati.com/wp-content/uploads/2016/12/Bootstrap-Logo.png" alt="Bootstrap" title="Bootstrap" width="60px"/></td>
+    <td align="center"><img src="https://i.imgur.com/4InW8PX.png" alt="MongoDB" title="MongoDB" width="60px"/></td>
+  </tr>
+</table>
+
+# Ticketing
+
+For ticketing and allocation of work, I followed an agile methodology. I created tickets in Trello with four basic states:
+<ul>
+  <li>User Stories</li>
+  <li>Backlog</li>
+  <li>Implementation</li>
+  <li>Completed and Pushed</li>
+  
+</ul>
+<img src="https://i.imgur.com/ain7zJ3.png"  height=200>
+
+# Getting Started
+  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -27,15 +117,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
 
@@ -43,26 +124,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
