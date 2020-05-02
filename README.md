@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/cg3qsz8.png"  height=200>
+  <img src="https://i.imgur.com/5XWEbU6.png"  height=200>
   
 </p>
 
@@ -39,14 +39,14 @@ I thought it was about time to be able to search by haircut and find people ear 
 
 # User Stories
 
-As a user, I want to be able to search the app by hairstyle
-As a user, I want to be able to find hairstylists who specialize in my hairstyle
-As a user, I want to be able to edit my profile
-As a user, I want to be able to click on a stylist and see their profile
-As a user, I want to be able to signup to be featured on the app
-As a user, I want to be able to login to my account
-As a user, I want to be able to see reviews on the stylists profile
-As a user, I want to see stylists based on distance from me
+As a user, I want to be able to search the app by hairstyle <br>
+As a user, I want to be able to find hairstylists who specialize in my hairstyle <br>
+As a user, I want to be able to edit my profile <br>
+As a user, I want to be able to click on a stylist and see their profile <br>
+As a user, I want to be able to signup to be featured on the app <br>
+As a user, I want to be able to login to my account <br>
+As a user, I want to be able to see reviews on the stylists profile <br>
+As a user, I want to see stylists based on distance from me <br>
 
 # Stack
 
