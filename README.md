@@ -7,9 +7,9 @@
 
 # Welcome to ChooseADo
 
-ChooseADo is for the people who google salon/barbershops near me. Then search through the review in hopes of finding the right person to do their hair. 
+ChooseADo is for the people who Google "salon/barbershops in [location]". Then choose a random place and search through the reviews in hopes of finding the right person to do their hair. If they do not find the right salon/barbershop the first time this cycle repeats itself over and over soaking up their valuable time. That is unnecessary.
 
-I thought it was about time to be able to search by haircut and find people ear you who specialize in that haircut and have reviews specifically for that haircut. 
+Because of this, I thought it was about time to create a search by hairstyle app so everyone could find stylists near them who specialize in, and have specific reviews for that hairstyle. 
 
 
 # Table of Contents
