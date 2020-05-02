@@ -75,6 +75,14 @@ As a user, I want to see stylists based on distance from me
 
 # Ticketing
 
+For ticketing and allocation of work, I followed an agile methodology. I created tickets in Trello with four basic states:
+<ul>
+  <li>User Stories</li>
+  <li>Backlog</li>
+  <li>Implementation</li>
+  <li>Completed and Pushed</li>
+  
+</ul>
 <img src="https://i.imgur.com/ain7zJ3.png"  height=200>
 
 # Getting Started
