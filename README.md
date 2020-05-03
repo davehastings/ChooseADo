@@ -24,7 +24,7 @@ Because of this, I thought it was about time to create a search by hairstyle app
 
 # Demo
 
-![](https://gfycat.com/equatorialaccomplishedblacknorwegianelkhound.gif)<br>
+![](https://gfycat.com/possiblecreamybarasingha.gif)<br>
 
 # Mobile Views
 <p>
