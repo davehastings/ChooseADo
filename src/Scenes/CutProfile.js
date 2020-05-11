@@ -2,6 +2,7 @@ import React from "react";
 import HairDresser from "../Components/HairDresser";
 import {hairDresserList} from "../data";
 import {withRouter} from "react-router-dom"
+import axios from "axios";
 
 
 class CutProfile extends React.Component{
@@ -9,7 +10,8 @@ class CutProfile extends React.Component{
         super(props)
 
         this.state={
-            sex:this.props.sex
+            sex:this.props.sex,
+            hairDresserList: []
             
             
         }
@@ -25,6 +27,10 @@ class CutProfile extends React.Component{
         event.preventDefault();
         this.props.history.push("/signup")
 
+    }
+
+    componentDidMount(){
+        axios.get("https://localhost:3000/getHairDressers", )
     }
     
 
