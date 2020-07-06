@@ -78,10 +78,10 @@ class Home extends React.Component{
                     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
                 </ol>
                 <div style={{border:"solid 4px white"}} className="carousel-inner">
-                    <div className="carousel-item active">
+                    <div className="carousel-item">
                     <img height="auto" width="100" src="images/salon.jpeg" className="d-block w-100" alt="..."/>
                     </div>
-                    <div className="carousel-item">
+                    <div className="carousel-item active">
                     <img height="auto" width="100" src="https://images.unsplash.com/photo-1559599101-f09722fb4948?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" className="d-block w-100" alt="..."/>
                     </div>
                     <div className="carousel-item">
